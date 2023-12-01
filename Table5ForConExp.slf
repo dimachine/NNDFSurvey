@@ -1,0 +1,80 @@
+[Lattice]
+21
+32
+[Objects]
+end-to-end DNN (Zhou et al. 2018)
+MT-STNets (Wang et al. 2021)
+CLSTM (Esquivel et al. 2020)
+MVC-STNet (Miao et al. 2020)
+DGSR (Zhang et al. 2022)
+Dynamic-GRCNN (Peng et al. 2020)
+DHSTNet (Ali et al. 2019)
+HMDLF (Du et al. 2020)
+STDN (Yao et al. 2019)
+HAST-IDS (Wang et al. 2018)
+sDTD (Shi et al. 2017)
+SRCNs (Yu et al. 2017)
+STCL-Net (Bao et al. 2019)
+AEST (Miao et al. 2021)
+DMVST-Net (Yao et al. 2018)
+CL-TRANSMODE (Qin et al. 2019)
+HiDeNN (Saha et al. 2021)
+ADAIN (Cheng et al. 2018)
+PHRNN, MSCNN (Zhang et al. 2017)
+ST-MDF (Prado-Rujas et al. 2023)
+GCN-LSTM (Xiao, B., et al. 2022)
+[Attributes]
+GRU
+BRNN
+FNN
+DNN
+GCN
+ConvLSTM
+LSTM
+CNN
+2D CNN
+App: Traffic Prediction
+App: Crime prediction
+App: Recommender System
+App: Not Specified
+App: Intrusion Detection
+App: Action Recognition
+App: Crash Risk Prediction
+App: Air Quality Inference
+App: Facial Experssion Recognition
+App: Intelligent IoT
+Ef
+Q
+St
+R
+Ex
+P
+Re
+H
+Em
+Es
+Et
+Er
+C
+[relation]
+0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 0 1 1 0 0 
+0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 0 1 1 1 0 
+0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 1 0 0 
+1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 1 0 0 
+0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 1 1 1 0 
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 1 1 1 1 0 
+1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 1 0 0 
+0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 1 1 1 1 1 0 
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 1 0 0 
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 1 1 0 0 
+0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 1 1 0 0 
+0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 1 1 0 0 
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 1 1 0 0 
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 1 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 
+0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 1 1 0 0 
+0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 1 0 0 
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 1 0 0 
